@@ -15,4 +15,4 @@ I am from a small rural town in Northwest Missouri named Albany. My hobbies are 
 My current career plans are to first continue my education and pursue another Bachelor's degree in Electrical Engineering emphasizing in computers.
 
 ## My Profiles
-- *[https://www.linkedin.com/in/seth-bennett-459498193/HTML]: LinkedIn
+- [LinkedIn](https://www.linkedin.com/in/seth-bennett-459498193/)
