@@ -16,3 +16,5 @@ My current career plans are to first continue my education and pursue another Ba
 
 ## My Profiles
 - [LinkedIn](https://www.linkedin.com/in/seth-bennett-459498193/)
+- [GitHub](https://github.com/Sbennett99)
+
