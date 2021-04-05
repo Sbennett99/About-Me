@@ -22,5 +22,8 @@ My current career plans are to first continue my education and pursue another Ba
 
 
 ## Project Links
+### Current
 
-- [Shell Big Data Processing](https://github.com/Sbennett99/shell-data-processing)
+
+### Past
+  -  [Shell Big Data Processing](https://github.com/Sbennett99/shell-data-processing)
