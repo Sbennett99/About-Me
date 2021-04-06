@@ -24,7 +24,7 @@ My current career plans are to continue my education after graduation and pursue
 ## Project Links
 ### Current
   - [Custom Kafaka Producers/Consumers](https://github.com/Sbennett99/Kafka-Custom-Producers-And-Consumers)
-  - [Overhaul/Creation of New TextBook Services Application for NWMSU](https://github.com/NicholasPierce1/TextBookServices/tree/main)https://github.com/NicholasPierce1/TextBookServices/tree/main
+  - [Overhaul/Creation of New TextBook Services Application for NWMSU](https://github.com/NicholasPierce1/TextBookServices/tree/main)
 
 ### Past
   -  [Shell Big Data Processing](https://github.com/Sbennett99/shell-data-processing)
