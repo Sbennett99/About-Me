@@ -1,6 +1,6 @@
 # Seth C Bennett
 ## Current
-I am a senior at Northwest Missouri State University pursuing a BS in Computer Science with a General Emphasis.
+I am a Graduate Student at Northwest Missouri State University with a BS in Computer Science and I am currently obtaining my Master's in Applied Computer Science. Furthermore, I will be working as a Graduate Assistant in the Spring of 2022 for Dr. Aziz Fellah in his Computer Organization class.
 
 ## Background
 I am from a small rural town in Northwest Missouri named Albany. My hobbies are large in number and a few of them are as follows:
@@ -12,7 +12,7 @@ I am from a small rural town in Northwest Missouri named Albany. My hobbies are 
 - Hanging out with Friends/Family
 
 ## Plans
-My current career plans are to continue my education after graduation and pursue a Master's in Applied Computer Science.
+My current career plans are to continue with my master's degree and as planned graduate in December of 2022. On the way to this goal, I hope to pursue an internship in Software Development so that I may obtain a job in the same or a similar position after graduation.
 
 ## My Profiles
 - [LinkedIn](https://www.linkedin.com/in/seth-bennett-459498193/)
