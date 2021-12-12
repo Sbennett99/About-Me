@@ -27,6 +27,7 @@ My current career plans are to continue my education after graduation and pursue
 
 
 ### Past
+  -  [Splunk System and file monitoring](https://github.com/bben6087/splunk-group-workshop)
   -  [Test Web App With Database Connection and Login](https://db95bennett.herokuapp.com/)
   -  [Custom Kafaka Producers/Consumers](https://github.com/Sbennett99/Kafka-Custom-Producers-And-Consumers)
   -  [Overhaul/Creation of New TextBook Services Application for NWMSU](https://github.com/NicholasPierce1/TextBookServices/tree/main)
