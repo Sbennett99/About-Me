@@ -24,9 +24,10 @@ My current career plans are to continue my education after graduation and pursue
 ## Project Links
   -If you have any questions feel free to reach out to me on linkedIn or email me at seth81599@hotmail.com
 ### Current
-  - [Custom Kafaka Producers/Consumers](https://github.com/Sbennett99/Kafka-Custom-Producers-And-Consumers)
-  - [Overhaul/Creation of New TextBook Services Application for NWMSU](https://github.com/NicholasPierce1/TextBookServices/tree/main)
+
 
 ### Past
+  - [Custom Kafaka Producers/Consumers](https://github.com/Sbennett99/Kafka-Custom-Producers-And-Consumers)
+  - [Overhaul/Creation of New TextBook Services Application for NWMSU](https://github.com/NicholasPierce1/TextBookServices/tree/main)
   -  [Shell Big Data Processing](https://github.com/Sbennett99/shell-data-processing)
   -  [iOS Text Based Adventure Game](https://github.com/michaelcrawford35/44443-MobileComputing-CrawfordBennett)
